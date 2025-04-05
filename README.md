@@ -6,6 +6,7 @@
 👨‍💻 Always learning and building  
 
 ## 🛠️ Tech Stack  
+**Languages:** C++,JAVA,Javascript,C
 **Frontend:** HTML, CSS, JavaScript, React.js, Next.js  
 **Backend:** Node.js, Express.js, MongoDB  
 
