@@ -1,9 +1,18 @@
->> Hi, I’m @Rohith
+👋 Hi, I'm Rohith
+💫 About Me
+🌐 Web development enthusiast
 
->>I’m passionate about exploring and working with web development technologies
+🤖 Currently exploring Generative AI
 
->>I’m currently learning GenAI
+👨‍💻 Always learning and building
 
->> How to reach me: www.rohithraj08@gmail.com || Linkdin
+🛠️ Tech Stack
+Frontend: HTML, CSS, JavaScript, React.js, Next.js  
+Backend: Node.js, Express.js, MongoDB  
 
->>Pronouns: He/Him
+🔭 Current Focus
+Diving deep into Generative AI applications for web development
+
+📫 Connect With Me:
+📧 rohithraj08@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/rohith-raj-214179309/)
