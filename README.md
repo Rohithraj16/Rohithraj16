@@ -6,9 +6,14 @@
 👨‍💻 Always learning and building  
 
 ## 🛠️ Tech Stack  
-**Languages:** C++,JAVA,Javascript,C
-**Frontend:** HTML, CSS, JavaScript, React.js, Next.js  
-**Backend:** Node.js, Express.js, MongoDB  
+**Languages:** C++, Java, JavaScript, C  
+
+**Frontend:**  
+HTML, CSS, JavaScript, React.js, Next.js  
+
+**Backend:**  
+Node.js, Express.js, MongoDB  
+ 
 
 ## 🔭 Current Focus  
 Diving deep into Generative AI applications for web development  
